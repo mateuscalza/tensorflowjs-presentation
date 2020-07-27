@@ -1,0 +1,11 @@
+{
+  "name": "tensorflowjs-presentation",
+  "version": "1.0.0",
+  "main": "1.js",
+  "repository": "git@github.com:mateuscalza/tensorflowjs-presentation.git",
+  "author": "Mateus Calza <mateushenrique17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.0.1"
+  }
+}
