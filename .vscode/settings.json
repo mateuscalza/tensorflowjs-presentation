@@ -1,6 +1,4 @@
 {
-    "cSpell.words": [
-        "tensorflow",
-        "tfjs"
-    ]
+  "javascript.preferences.quoteStyle": "single",
+  "cSpell.words": ["tensorflow", "tfjs"]
 }
