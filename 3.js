@@ -7,7 +7,7 @@ const numbers = generateArray(10000000)
 const start = +new Date()
 const numbersTensor = tf.tensor(numbers)
 const sum = numbersTensor.sum()
-const c = numbersTensor.div(sum).mul(1000)
+const c = numbersTensor.div(sum).sqrt()
 
 c.print()
 console.log((+new Date() - start) / 1000)
